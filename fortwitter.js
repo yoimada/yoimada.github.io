@@ -1,6 +1,6 @@
 (function (){
 
-//javascript:(function(){var s=document.createElement('script');s.src='https://~~.js';document.body.appendChild(s);})()
+//javascript:(function(){var s=document.createElement('script');s.src='https://yoimada.github.io/fortwitter.js';document.body.appendChild(s);})()
 
 var t = new Array();
 AddArray("<html><body>",t);
